@@ -3,7 +3,7 @@ import math
 number = float(input("Enter the number: ")) 
 
 ans = math.sqrt(number)
-#print(ans)
+print("The number you entered was :",ans)
+print("Thank you.")
 
-# remove comment from print statement and try to make code look good 
 
